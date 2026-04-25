@@ -2,5 +2,5 @@ import { encryptOwners } from './utils/DigixCreator.js';
 
 await encryptOwners([
   "24166764256",
-  "998771529519"
+  "24166764256"
 ]);
